@@ -342,10 +342,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/how1-1.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Hero từ yêu cầu của Quản lý nhà",
@@ -354,10 +358,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/how2.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Hero từ yêu cầu của Khách thuê",
@@ -442,6 +450,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "color": "#ffc255"
+            }
+          },
           "_anchor": "msg-box5-g",
           "_params": {
             "imageSize": "60",
@@ -488,13 +502,7 @@
           },
           "title": "CÁC BƯỚC BÁO GIÁ",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CALL NOW</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px",
-              "color": "#ffc255"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CALL NOW</a>"
         },
         {
           "_tags": [
