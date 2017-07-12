@@ -207,29 +207,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffc255"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-j",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "CÁCH HERO HOẠT ĐỘNG",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
           "_tags": [
             "Theme"
           ],
