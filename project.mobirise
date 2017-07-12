@@ -133,7 +133,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Immediately",
+          "title1": "Nhanh chóng",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<b>Hero</b> - Giải quyết sự cố nhanh chóng trong ngày/ Từ 30 phút đến vài giờ đồng hồ<br><br><b>“Người thường”</b> – Mất khá nhiều thời gian để sự cố được giải quyết/ Thậm chí từ 3 đến 7 ngày<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -149,7 +149,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Effective",
+          "title2": "Hiệu quả",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<b>Hero</b> – Đảm bảo chất lượng dịch vụ/ Có trách nhiệm với các vấn đề phát sinh<br><br><b>“Người thường” </b>– Tay nghề chưa được đảm bảo/ Tính chuyên môn hóa và trách nhiệm không cao.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -165,7 +165,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Trustworthy",
+          "title3": "Đáng tin cậy",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "<b>Hero</b> – Lý lịch được xác minh bởi Ami/ Giảm thiểu tối đa rủi ro<br><br><b>“Người thường”</b> – Rủi ro mất cắp/ Chi phí phát sinh<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -288,7 +288,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "HERO PRICE",
+          "title": "MỨC GIÁ CỦA HERO",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -482,7 +482,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/price-1.png",
+              "src": "@PROJECT_PATH@/assets/images/price-vn.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -548,7 +548,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "CALL HERO NOW!",
+          "text": "GỌI HERO NGAY!",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/ami.iot/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         }
       ]
